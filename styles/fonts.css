@@ -1,0 +1,8 @@
+@font-face {
+    font-family: ptsans;
+    src: url('../public//fonts/ptsans/ptsans.ttf');
+}
+@font-face {
+    font-family: mono;
+    src: url('../public/fonts/Roboto_Mono/static/RobotoMono-Regular.ttf');
+}
